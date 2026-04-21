@@ -1,0 +1,7 @@
+# Home Network Vulnerability Scanner
+# Most scanning functionality uses Python standard library
+# No external dependencies required for basic functionality
+
+# Optional dependencies for enhanced features:
+# requests>=2.25.0  # For future API integrations
+# colorama>=0.4.4   # For colored terminal output (future enhancement)
